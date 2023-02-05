@@ -1,0 +1,12 @@
+D:\WORK\_2023\LoggerClass\bin\Debug\net7.0\LoggerClass.deps.json
+D:\WORK\_2023\LoggerClass\bin\Debug\net7.0\LoggerClass.dll
+D:\WORK\_2023\LoggerClass\bin\Debug\net7.0\LoggerClass.pdb
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.csproj.AssemblyReference.cache
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.AssemblyInfoInputs.cache
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.AssemblyInfo.cs
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.csproj.CoreCompileInputs.cache
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.dll
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\refint\LoggerClass.dll
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\LoggerClass.pdb
+D:\WORK\_2023\LoggerClass\obj\Debug\net7.0\ref\LoggerClass.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgwQcBOx0bp31tc1zJX906ph561GUWrP55aiT+Pra0uL+9HfIxgxx9d3mt+S6DWf6mWJ2npgr45mRKdjd+2GSg==",
+  "success": true,
+  "projectFilePath": "D:\\WORK\\_2023\\LoggerClass\\LoggerClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shtir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\shtir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
